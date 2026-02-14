@@ -15,7 +15,6 @@ exit
 
 :yes
 start msedge
-exit
 
 :no
 echo Are you for real rn?
@@ -32,16 +31,7 @@ if /i "%input%"=="no" goto no2
 :yes2
 echo YOUR COMPUTER IS FUCKED NOW EZ
 pause
-echo ^@echo off > perish.bat
-echo echo YOUR COMPUTER HAS BEEN FUCKED BY THIS MALWARE! GOOD LUCK GETTIN YOUR PC BACK. > perish.bat
-echo :loop > perish.bat
-echo start msedge > perish.bat
-echo start msedge > perish.bat
-echo start msedge> perish.bat
-echo start msedge > perish.bat
-echo start msedge > perish.bat
-echo start msedge > perish.bat
-echo start msedge > perish.bat
+start perish.bat
 
    
 echo pause > perish.bat
