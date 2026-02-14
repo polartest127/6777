@@ -14,8 +14,7 @@ pause
 exit
 
 :yes
-rem Launch Chrome
-start chrome
+start msedge
 exit
 
 :no
